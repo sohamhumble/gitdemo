@@ -1,0 +1,1 @@
+This is a trash.txt file for b2 branch.

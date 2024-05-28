@@ -1,0 +1,15 @@
+#clock{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 90vh;
+     font-size: 50px;
+     font-weight: 700;
+}
+body {
+     background-image: url("/Images/Clock_image.avif");
+     background-color: #cccccc;
+     background-position: center; 
+     background-repeat: no-repeat;
+     background-size:cover;
+}
